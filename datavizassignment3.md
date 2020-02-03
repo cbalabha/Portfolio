@@ -33,4 +33,4 @@ I thought this feedback was useful because it made me consider a lot of elements
 
 For my final visualization I chose to show a stacked bar chart instead of side-by-side bar charts. I believe the interactive component of this chart still allows users to discern which countries make up the highest and lowest ends of the world economy but it is a much clearer presentation of which regions contribute to the global economy the most. The bars are proportional to the numbers which allows people to have a much clearer understanding of the visual at a glance. I also changed the title and got rid of the $80 Trillion figure which was uninformative and confusing. I think the best part of this visual is how the color highlights the different countries when clicked on offering a clear understanding of what the original chart promised to deliver. 
 
-[Portfolio](/README.md)
+[Home Page](/README.md)
