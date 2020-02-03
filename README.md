@@ -12,3 +12,4 @@ As I mentioned before, I hope to learn how to make data insights engaging and fu
 # Portfolio
 [Assignment 2](/datavizassignment2.md) 
 
+[Assignment 3](/datavizassignment3.md)
