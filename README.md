@@ -13,3 +13,5 @@ As I mentioned before, I hope to learn how to make data insights engaging and fu
 [Assignment 2](/datavizassignment2.md) 
 
 [Assignment 3](/datavizassignment3.md)
+
+[Final Project Part 1](/finalproject1.md)
