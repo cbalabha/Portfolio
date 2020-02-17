@@ -71,19 +71,19 @@ Male, 26 years old, Computer Scientist
 # User C
 Female, 18, college student
 
-1.Tell me in your own words what you think the purpose of this site is?
+1. Tell me in your own words what you think the purpose of this site is?
 "The purpose of this website is to illustrate the problem of food waste in the world and then provide specific examples of how an individual can reduce their own personal food waste."
 
 2. How much did you know about this topic beforehand? 
 "I knew that food waste was increasing over time (especially in America)."
 
-3.  What is something new you learned from this site?
+3. What is something new you learned from this site?
 "I learned that food waste isn't innately biodegradable and that it can actually increase the quantity of non-biodegradable landfills."
 
 4. What about this (if anything) makes you want to take action?
 "I feel a sense of guilt over knowing I have contributed to food waste in my life and am interested to understand different methods to help curb those bad habits."
 
-5. (and 6)  What  about this  is confusing or off-putting?
+5. What  about this  is confusing or off-putting?
 "I could be wrong but my instincts are telling me that individual people can't be the biggest cause of food waste. I would be interested to see more statistics on if the food industry itself is responsible for the increase through actions like throwing away perfectly good food because it's not "attractive enough" (like vegetables that are mishapen) or refusing to donate unsold food to those in need."
 
 # Documented Findings
