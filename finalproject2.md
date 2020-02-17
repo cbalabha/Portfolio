@@ -29,7 +29,6 @@ Hello, thank you for taking the time to speak with me today, this will only take
 Female - 45 years old, has a 2-year associates degree 
 
 1.) Tell me in your own words what you think the purpose of this site is?
-
 Its about Food Waste problem globally, factors contributing to it and ways to control food waste.
 
 2.) How much did you know about this topic beforehand? 
@@ -45,8 +44,7 @@ Looking at the picture and statistics of Global food waste over time, global con
 The graph about 'what can we do to reduce food waste?' is not very clear.
 
 6.) What about this would you change/add/remove and why?
-I would change Call to Action part of the site. Instead of check boxes for preferred methods, I would write clear description on actions I plan to take. 
-Adding Global waste food by Type might also be helpful, indicating if the wastage is more raw food or cooked food might give an idea to the consumers on what to control and how to control.
+I would change Call to Action part of the site. Instead of check boxes for preferred methods, I would write clear description on actions I plan to take. Adding Global waste food by Type might also be helpful, indicating if the wastage is more raw food or cooked food might give an idea to the consumers on what to control and how to control.
 
 # User B
 Male, 26 years old, Computer Scientist
