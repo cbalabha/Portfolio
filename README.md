@@ -16,4 +16,4 @@ As I mentioned before, I hope to learn how to make data insights engaging and fu
 
 [Final Project Part 1](/finalproject1.md)
 
-[Final Project Part 2)(/finalproject2.md)
+[Final Project Part 2](/finalproject2.md)
