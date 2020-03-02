@@ -1,9 +1,9 @@
-# cmu student portfolio
-This is my public portfolio for data visualizations 
+# Welcome to my Portfolio! 
+This is my public portfolio for data visualizations for the Telling Stories with Data class at Carnegie Mellon University. 
 
 # About me
 My name is Chinmayee Balabhadrapatruni. I am a second year Master's student in Public Policy and Management at Heinz College at Carnegie Mellon University. 
-I am a part of the Telling Stories with Data course here and I am excited to learn more about how to present data in a manner that is engaging and straightforward without being misleading
+As a part of the Telling Stories with Data course here, I am excited to learn more about how to present data in a manner that is engaging and straightforward without being misleading
 After I graduate in May I will be joining IBM as a federal consultant where hopefully I can put my skills to practice. 
 
 # What I hope to learn
